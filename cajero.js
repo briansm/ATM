@@ -1,0 +1,1 @@
+alert ("Dame tu dinero");
